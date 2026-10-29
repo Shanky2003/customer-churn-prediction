@@ -1,4 +1,4 @@
-==============================================================
+=============================================
 #CUSTOMER CHURN PREDICTION USING MACHINE LEARNING
 ==============================================================
 
@@ -11,7 +11,7 @@ customer.
 
 
 --------------------------------------------------------------
-1. OVERVIEW
+###1. OVERVIEW
 --------------------------------------------------------------
 Customer churn is when a customer stops using a company's
 service. Winning a new customer usually costs far more than
@@ -23,7 +23,7 @@ This project builds a binary classifier that predicts churn
 
 
 --------------------------------------------------------------
-2. DATASET
+###2. DATASET
 --------------------------------------------------------------
 - Name: Telco Customer Churn (Kaggle / IBM sample data)
 - Rows: about 7,000 customers
@@ -41,7 +41,7 @@ the path to a local copy of the CSV
 
 
 --------------------------------------------------------------
-3. PROJECT STRUCTURE
+###3. PROJECT STRUCTURE
 --------------------------------------------------------------
 Customer_Churn_Prediction.ipynb   Jupyter Notebook version
 Customer_Churn_Prediction.py      Standalone Python script
